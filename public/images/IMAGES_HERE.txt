@@ -1,0 +1,6 @@
+PLACE YOUR IMAGES HERE:
+
+1. honey-glow-mens-salon-and-tattoo.png  — Banner/Hero image + Logo
+2. my-photo.png                          — Owner photo (used in About section)
+
+Both images should be placed in this folder: public/images/
